@@ -1,4 +1,4 @@
-# Web Test Help
+# iOS Appium Test ReadMe
 
 This document will help you to setup & run Appium UI Tests for iOS
 
