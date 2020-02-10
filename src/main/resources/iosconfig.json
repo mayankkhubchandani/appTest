@@ -1,0 +1,7 @@
+{
+  "platformName": "ios",
+  "platformVersion": "12.2",
+  "deviceName": "iPhone XR",
+  "automationName": "XCUITest",
+  "appPath": "./resources/ConnectivityRemoteTest.app"
+}
